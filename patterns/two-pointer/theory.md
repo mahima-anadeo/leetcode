@@ -1,0 +1,7 @@
+- Every k sum problem can be broken down into 2 sum and then  solved with two pointer approach.
+- Its a classical reduction pattern
+- time complexity is 0(n^k-1) i.e for three sum its O(n^2)
+- first step is to sort - auxillary space for sorting function in js is O(n)
+- two pointer approach has space of O(1) (constant space)
+-  2sum is for sorted array - only then we can use two pointer else we need to solve using hashing
+-  for k sum problem , we fix kth number and then solve for 2sum issue
