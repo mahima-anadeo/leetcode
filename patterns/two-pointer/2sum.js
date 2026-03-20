@@ -21,3 +21,7 @@ var twoSum = function(numbers, target) {
 
 console.log (twoSum([2,7,11,15],9))
 console.log (twoSum([3,2,4],6))
+
+
+// https://leetcode.com/submissions/detail/1953466783/
+//Given a 1-indexed array of integers so we add +1 to left and right
