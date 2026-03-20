@@ -62,3 +62,5 @@ var fourSum = function sum4(nums, target){
 
 console.log(fourSum([1,0,-1,0,-2,2],0))
 console.log(fourSum([2,2,2,2,2]),8)
+
+//https://leetcode.com/problems/4sum/
