@@ -25,3 +25,5 @@ console.log(moveZeroes([0,1,0,3,12]))
 
 //"Hey right pointer, go find me a number that isn't zero. Found one? Cool, swap it with the left pointer's spot 
 // (which is currently sitting on a zero or itself) and then left can move forward one step."
+// find non zero number
+// and pull in front in line
