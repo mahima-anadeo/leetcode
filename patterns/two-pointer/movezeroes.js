@@ -22,3 +22,6 @@ var moveZeroes = function(nums) {
 console.log(moveZeroes([0,1,0,3,12]))
 
 //https://leetcode.com/problems/move-zeroes/
+
+//"Hey right pointer, go find me a number that isn't zero. Found one? Cool, swap it with the left pointer's spot 
+// (which is currently sitting on a zero or itself) and then left can move forward one step."
