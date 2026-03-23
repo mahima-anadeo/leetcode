@@ -14,3 +14,6 @@ function maxconsecutiveones(arr){
 }
 
 console.log(maxconsecutiveones([1,1,0,1,1,1,1,0,0,1,1,1,1,1,1]))
+
+time = O(n)
+space = O(1)
