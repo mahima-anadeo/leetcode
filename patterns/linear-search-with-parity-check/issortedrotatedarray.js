@@ -3,6 +3,8 @@
 function isRotatedSortedArray(nums) {
     let count = 0;
     for(let i=0;i<nums.length;i++){
+       //  (i+1)%n makes array circular so that last and first element are neighbour
+       // if you do not do this then add a separate check for last and first element 
         if(nums[i] > nums[(i+1) % n ]){
             count++;
         }
