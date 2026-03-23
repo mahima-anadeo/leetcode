@@ -18,3 +18,5 @@ console.log(isRotatedSortedArray(rotatedSortedArray2))
 console.log(isRotatedSortedArray([2,1,3,4]))
 console.log(isRotatedSortedArray([2,1]))
 console.log(isRotatedSortedArray([1,1,1]))
+
+//https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
